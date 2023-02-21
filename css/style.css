@@ -8,6 +8,7 @@ body {
 header {
     background-color: #F0FFF0;
 
+
 }
 
 .cnav {}
@@ -50,6 +51,7 @@ header {
 .banner {
     background-color: #F0FFF0;
     padding-top: 26px;
+    padding-bottom: 10px;
 
 }
 
@@ -68,25 +70,61 @@ header {
 .bh {
     font-size: 48px;
     font-weight: 700;
-    line-height: 70px;
+    line-height: 57px;
 
 }
-.bh span{
+
+.bh span {
     color: #21B573;
 }
 
 .bt-2 {
 
-font-size: 16px;
-line-height: 36px;
-color: #6C6B6B;
-border: 1px  #000000;
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+    border: 1px #000000;
 }
 
-.but-2{
-   border-radius: 33px; 
+.but-2 {
+    border-radius: 33px;
 }
-.btn-2:hover{
+
+.btn-2:hover {
     background-color: #072d1b !important;
     color: #000000;
+}
+
+/* banner end  */
+
+/* feater start  */
+
+.feater {
+    background-color: #E5E5E5;
+    text-align: center;
+    padding: 40px 0px 60px;
+}
+
+.f-1 {
+    background: #c0a7a7;
+    ;
+    border-radius: 10px;
+    padding: 14px 0px;
+}
+
+.f-h2 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+
+}
+
+.f-p {
+    color: #585859;
+}
+
+.f-1:hover {
+    background-color: #F8FFFB;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
 }

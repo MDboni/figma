@@ -12,7 +12,28 @@
          padding: 5px 16px !important;
 
      }
+
+     /* banner part  */
+
+     .b-img {
+         padding: 15px;
+     }
+
+     .bt-1 {
+         font-size: 20px;
+     }
+
+     .bh {
+         font-size: 52px;
+         line-height: 51px;
+     }
+
+     .bt-2 {
+         font-size: 23px;
+         padding: 15px 0px;
+     }
  }
+
 
 
 
@@ -23,7 +44,42 @@
      .menu ul li a {
 
          padding: 8px 13px !important;
+     }
 
+     /* banner part  */
+
+     .b-img {
+         padding: 15px;
+     }
+
+     .bt-1 {
+         font-size: 20px;
+     }
+
+     .bh {
+         font-size: 62px;
+         line-height: 51px;
+     }
+
+     .bt-2 {
+         font-size: 23px;
+         padding: 15px 0px;
+     }
+
+     /* banner end  */
+
+     /* feter star  */
+     .f-1 {
+         padding: 10px 0px;
+     }
+
+     .f-h2 {
+         font-size: 17px;
+         line-height: 25px;
+     }
+
+     .f-p {
+         font-size: 11px;
      }
  }
 
@@ -37,12 +93,42 @@
          padding: 8px 13px !important;
 
      }
+
+     /* banner part  */
+     .bh {
+         font-size: 35px;
+         line-height: 58px;
+     }
+
+     .bt-2 {
+         font-size: 17px;
+         line-height: 36px;
+     }
+
+     .b-img {
+         padding-top: 50px;
+     }
  }
 
 
 
  /* Large devices (desktops, 992px and up) */
- @media (min-width: 992px) and (max-width: 1199.98px) {}
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+
+     /* banner part  */
+     .bt-1 {
+         font-size: 18px;
+     }
+
+     .bt-2 {
+         font-size: 17px;
+         padding: 2px 0px;
+     }
+
+     .b-img {
+         padding-top: 14px;
+     }
+ }
 
 
 
@@ -52,4 +138,24 @@
 
 
  /* Extra Extra large devices (large desktops, 1200px and up) */
- @media (min-width: 1400px) {}
+ @media (min-width: 1400px) {
+
+     /* banner part  */
+     .bt-1 {
+
+         font-size: 22px;
+     }
+
+     .bh {
+         font-size: 61px;
+         padding-bottom: 7px;
+
+     }
+
+     .bt-2 {
+         font-size: 24px;
+         line-height: 42px;
+         padding: 9px 0px;
+     }
+
+ }
