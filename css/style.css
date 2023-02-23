@@ -43,7 +43,7 @@ header {
 
 .btlogo:hover {
     color: bisque !important;
-    background-color: cadetblue !important:
+    background-color: cadetblue !important;
 }
 
 /* banner start  */
@@ -159,22 +159,27 @@ header {
     color: #413960;
 }
 
-.cour-p{
+.cour-p {
     font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-color: #585859;
-}
-.cour-footer{
-    
-}
-.cor-footer li{
-    padding-top: 10px;
-}
-.c-f-s{
-font-size: 12px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
 }
 
-.cour-r:hover{
+.cour-footer {}
+
+.cor-footer li {
+    padding-top: 10px;
+}
+
+.c-f-s {
+    font-size: 12px;
+}
+
+.cor-footer li img {}
+
+.cor-footer ul li span {}
+
+.cour-r:hover {
     background-color: #c0a7a7 !important;
 }
