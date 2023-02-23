@@ -134,6 +134,7 @@ header {
 /* course start */
 .course {
     background-color: #E5E5E5;
+    padding-bottom: 20px;
 
 }
 
@@ -183,3 +184,37 @@ header {
 .cour-r:hover {
     background-color: #c0a7a7 !important;
 }
+
+/* testmonial part  */
+
+.testmonial{
+   background-color:#E5E5E5 ;
+   padding: 10px 0px 20px;
+
+ 
+   
+}
+.test-H{
+    text-align: center;
+    padding: 10px 0px 15px; 
+}
+.test-left{
+    padding-left: 180px;
+    
+}
+.test-img{
+
+}
+.test-right{
+    padding-top: 14px;
+
+}
+.test-right-p{}
+
+/* footer part  */
+
+.footer{
+    background-color: #282531;
+    padding: 20px 0px 60px;
+}
+
