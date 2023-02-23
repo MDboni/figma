@@ -130,3 +130,51 @@ header {
 }
 
 /* feter end   */
+
+/* course start */
+.course {
+    background-color: #E5E5E5;
+
+}
+
+.con-h1 {
+    text-align: center;
+    color: #413960;
+    padding-bottom: 17px;
+
+}
+
+.cour-r {
+    padding: 15px 10px;
+    background-color: #e4d6d6;
+    box-shadow: inset 0 1px 2px rgba($black, .075);
+    border-radius: 18px;
+}
+
+.cour-h2 {
+    font-size: 24px;
+    padding-top: 5px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #413960;
+}
+
+.cour-p{
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #585859;
+}
+.cour-footer{
+    
+}
+.cor-footer li{
+    padding-top: 10px;
+}
+.c-f-s{
+font-size: 12px;
+}
+
+.cour-r:hover{
+    background-color: #c0a7a7 !important;
+}
